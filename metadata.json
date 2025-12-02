@@ -1,0 +1,5 @@
+{
+  "name": "Ge Brain",
+  "description": "A fully client-side AI workbench featuring virtual memory management, dynamic tool definitions, and complete conversation state persistence powered by the Gemini API.",
+  "requestFramePermissions": []
+}
